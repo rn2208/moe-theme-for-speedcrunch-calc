@@ -2,5 +2,5 @@ https://speedcrunch.org/advanced/colorschemeformat.html
 
 Windows: C:/Users/<USERNAME>/AppData/Roaming/SpeedCrunch/color-schemes
 Linux/Unix: ~/.local/SpeedCrunch/color-schemes
- OS X: ~/Library/Application Support/SpeedCrunch/color-schemes
+OS X: ~/Library/Application Support/SpeedCrunch/color-schemes
 When using a portable version of SpeedCrunch on any operating system, additional color schemes are loaded from the color-schemes subdirectory in the portable application directory.
